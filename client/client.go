@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/yourusername/hyperdtp/packet"
+	"github.com/ramiartas0/hyperdtp/packet"
 )
 
 type Client struct {

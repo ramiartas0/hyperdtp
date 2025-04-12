@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourusername/hyperdtp/packet"
+	"github.com/ramiartas0/hyperdtp/packet"
 )
 
 type Server struct {
