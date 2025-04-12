@@ -3,6 +3,7 @@ package client
 import (
 	"fmt"
 	"net"
+	"sync"
 	"time"
 
 	"github.com/ramiartas0/hyperdtp/packet"
